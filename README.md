@@ -4,7 +4,4 @@ A video card built using logic gate IC's and lots of patience. The video card ut
 ![vid](IMG_1037.png)
 
 ## Parts List
-Item                                              Quantity
-Breadboard       
-Copper Stranded Jumper Wires
-10MHz
+*wwwwww
